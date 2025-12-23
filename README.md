@@ -24,7 +24,7 @@ Below is a brief overview of the most important files that I wrote for this proj
 
 ### app/src/main/java/rs/ac/singidunum/activities/
 - `SplashActivity.java`  
-  Shows the initial splash screen before the user is taken to the login or main part of the app.
+  Shows the initial splash screen before the user is taken to the login or main part of the app if already logged in.
 
 - `LoginActivity.java`  
   Handles user login, validates the entered credentials against the SQLite database and navigates to `MainActivity` on success.
