@@ -2,7 +2,7 @@
 #### Video Demo: <ADD YOUR YOUTUBE LINK HERE>
 #### Description:
 
-Sportiko is an Android application designed to make organizing casual sports games easier. Many people want to play football, basketball, tennis, or other recreational sports, but finding enough players or coordinating time and place is often difficult. Sportiko solves this by allowing users to create games, browse available games, join games created by others, manage their profile, and stay updated with the latest sports news. The application is built in Java using Android Studio, and it uses SQLite for storing data locally.
+Sportiko is an Android application designed to make organizing casual sports games easier. Many people want to play football, basketball, tennis, or padel, but finding enough players or coordinating time and place is often difficult. Sportiko solves this by allowing users to create games, browse available games, join games created by others, and stay updated with the latest sports news. The application is built in Java using Android Studio, and it uses SQLite for storing data locally.
 
 When the app starts, the user is greeted with a splash screen and then authentication screens where they can register and log in. After logging in, they access the main part of the app. Users can create new sports games by entering information such as game name, location, date, time, and number of players needed. Other users can browse available terms, view game details, and join games they are interested in. In addition to browsing public games, users also have a “My Terms” section showing games they created.
 
